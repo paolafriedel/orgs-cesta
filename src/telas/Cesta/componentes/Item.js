@@ -16,7 +16,8 @@ const estilos = StyleSheet.create({
         flexDirection: "row",
         borderBottomWidth: 1,
         borderBottomColor: "#ECECEC",
-        padding: 16,
+        paddingVertical: 16,
+        marginHorizontal: 16,
         alignItems:"center",
         
     },
